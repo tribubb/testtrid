@@ -1,5 +1,10 @@
 <?php
-echo "Distance to Cozumel 15/02/22 (Martes): 200m<br>";
+echo "Distance to Cozumel 15/02/22 (Martes): ";
+$x = 0;
+$x += 200;
+
+echo $x"m<br>";
+
 echo "Distance to Cozumel 16/02/22 (Miercoles): 200m<br>";
 echo "Distance to Cozumel 17/02/22 (Jueves):<br>";
 echo "Distance to Cozumel 18/02/22 (Viernes):<br>";
