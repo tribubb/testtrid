@@ -3,7 +3,8 @@
 <body>
 
 <?php
-echo "My first PHP script!";
+echo "Distance to Cozumel 15/02/22: 200m";
+echo "Distance to Cozumel 16/02/22: 200m";
 ?> 
 
 </body>
