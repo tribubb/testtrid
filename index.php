@@ -1,19 +1,18 @@
+<html>
+<head>
+<link rel="stylesheet" href="csstrid.css">
+</head>
+<body>
 <?php
 
 include_once("home.html");
 $aa = 0;
 $x = 0;
 
-<html>
-  <head>
-    <link rel="stylesheet" href="csstrid.css">
-  </head>
-  <body>
-    <p>
-      echo "Distance to Cozumel 15/02/22 (Martes): ";
-    </p>
-  </body>
-</html>  
+<p>
+echo "Distance to Cozumel 15/02/22 (Martes): ";
+</p>
+  
 $ab = 200;
 $x += 200;
 echo $ab;
@@ -40,3 +39,5 @@ echo $x;
 
 echo "m";
 ?> 
+</body>
+</html>  
