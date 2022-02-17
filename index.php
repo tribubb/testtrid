@@ -1,18 +1,33 @@
 <?php
-echo "Distance to Cozumel 15/02/22 (Martes): 200m<br>";
-echo "Distance to Cozumel 16/02/22 (Miercoles): 200m<br>";
-echo "Distance to Cozumel 17/02/22 (Jueves):<br>";
-echo "Distance to Cozumel 18/02/22 (Viernes):<br>";
-echo "Distance to Cozumel 19/02/22 (Sabado):<br>";
-echo "Distance to Cozumel 20/02/22 (Domingo):<br>";
+
+$aa = 0;
+$x = 0;
+
+echo "Distance to Cozumel 15/02/22 (Martes): ";
+
+$ab = 200;
+$x += 200;
+echo $ab;
+
+echo "m<br>Distance to Cozumel 16/02/22 (Miercoles): ";
+
+$ac = 200;
+$x += 200;
+echo $ac;
+
+echo "m<br>Distance to Cozumel 17/02/22 (Jueves): ";
+echo "m<br>Distance to Cozumel 18/02/22 (Viernes): ";
+echo "m<br>Distance to Cozumel 19/02/22 (Sabado): ";
+echo "m<br>Distance to Cozumel 20/02/22 (Domingo): ";
   
-echo "<br>Week 1 Distance: 400m<br>";
-echo "<br>Total Distance: ";
+echo "m<br><br>Week 1 Distance: ";
 
-$x = 300;  
-$y = 100;
+$a = $aa + $ab + $ac;
+echo $a;
 
-echo $x + $y;
+echo "m<br><br>Total Distance: ";
+
+echo $x;
 
 echo "m";
 ?> 
