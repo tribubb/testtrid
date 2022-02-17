@@ -1,5 +1,6 @@
 <?php
 
+include_once("home.html");
 $aa = 0;
 $x = 0;
 
