@@ -23,15 +23,29 @@ echo "m<br>Distance to Cozumel 17/02/22 (Jueves): ";
   
 $ad = 300;
 $x += 300;
-echo $ac;
+echo $ad;
   
 echo "m<br>Distance to Cozumel 18/02/22 (Viernes): ";
+  
+$ae = 0;
+$x += 0;
+echo $ae;
+  
 echo "m<br>Distance to Cozumel 19/02/22 (Sabado): ";
+  
+$af = 0;
+$x += 0;
+echo $af;
+
 echo "m<br>Distance to Cozumel 20/02/22 (Domingo): ";
+  
+$ag = 0;
+$x += 0;
+echo $ag;
   
 echo "m<br><br>Week 1 Distance: ";
 
-$a = $aa + $ab + $ac;
+$a = $aa + $ab + $ac +$ad + $ae + $af + $ag;
 echo $a;
 
 echo "m<br><br>Total Distance: ";
