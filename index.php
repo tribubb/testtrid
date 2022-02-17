@@ -1,7 +1,5 @@
+<!DOCTYPE html>
 <html>
-<head>
-<link rel="stylesheet" href="csstrid.css">
-</head>
 <body>
 <?php
 
