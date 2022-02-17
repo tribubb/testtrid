@@ -7,5 +7,12 @@ echo "Distance to Cozumel 19/02/22 (Sabado):<br>";
 echo "Distance to Cozumel 20/02/22 (Domingo):<br>";
   
 echo "<br>Week 1 Distance: 400m<br>";
-echo "<br>Total Distance: 400m";
+echo "<br>Total Distance: ";
+
+$x = 300;  
+$y = 100;
+
+echo $x + $y;
+
+echo "m";
 ?> 
