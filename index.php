@@ -29,9 +29,9 @@ echo "m<br>Distance to Cozumel 18/02/22 (Viernes): ";
   
 $ae = 0;
 $x += 0;
-echo $ae;
+echo "Sunburn Recovery Day";
   
-echo "m<br>Distance to Cozumel 19/02/22 (Sabado): ";
+echo "<br>Distance to Cozumel 19/02/22 (Sabado): ";
   
 $af = 0;
 $x += 0;
