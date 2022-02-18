@@ -21,8 +21,8 @@ echo $ac;
 
 echo "m<br>Distance to Cozumel 17/02/22 (Jueves): ";
   
-$ad = 300;
-$x += 300;
+$ad = 400;
+$x += 400;
 echo $ad;
   
 echo "m<br>Distance to Cozumel 18/02/22 (Viernes): ";
