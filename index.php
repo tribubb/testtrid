@@ -1,10 +1,5 @@
 <!DOCTYPE html>
 <html>
-<div>
-<?php
-echo "The swim to Cozumel from the beach at Playa Del Carmen is approximately 17km, being 16.8km at its shortest";
-?> 
-</div>
 <body>
 <?php
 
