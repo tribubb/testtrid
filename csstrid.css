@@ -1,7 +1,10 @@
 div {
-  padding: 20px 0;
   height: 50px;
   width: 100%;
+  background-color: #003060;
+}
+divp {
+  text-align: center;
   background-color: #003060;
 }
 body {
