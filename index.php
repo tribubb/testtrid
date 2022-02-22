@@ -7,7 +7,7 @@ include_once("home.html");
 $aa = 0;
 $x = 0;
 
-echo "Distance to Cozumel 15/02/22 (Martes): ";
+echo "<br><br>Distance to Cozumel 15/02/22 (Martes): ";
   
 $ab = 200;
 $x += 200;
