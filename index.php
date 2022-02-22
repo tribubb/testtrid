@@ -33,20 +33,43 @@ echo "Sunburn Recovery Day";
   
 echo "<br>Distance to Cozumel 19/02/22 (Sabado): ";
   
-$af = 0;
-$x += 0;
+$af = 100;
+$x += 100;
 echo $af;
 
 echo "m<br>Distance to Cozumel 20/02/22 (Domingo): ";
   
-$ag = 0;
-$x += 0;
+$ag = 100;
+$x += 100;
 echo $ag;
   
 echo "m<br><br>Week 1 Distance: ";
 
 $a = $aa + $ab + $ac +$ad + $ae + $af + $ag;
 echo $a;
+  
+echo "Distance to Cozumel 21/02/22 (Lunes): ";
+  
+$ba = 0;
+$x += 0;
+echo $ba;
+  
+echo "Distance to Cozumel 22/02/22 (Martes): ";
+  
+$bb = 0;
+$x += 0;
+echo $bb;
+  
+echo "Distance to Cozumel 23/02/22 (Miercoles): ";
+  
+$bc = 0;
+$x += 0;
+echo $bc;
+  
+echo "m<br><br>Week 2 Distance: ";
+
+$b = $ba + $bb + $bc;
+echo $b;
 
 echo "m<br><br>Total Distance: ";
 
