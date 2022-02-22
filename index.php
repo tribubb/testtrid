@@ -56,8 +56,8 @@ echo $ba;
   
 echo "m<br>Distance to Cozumel 22/02/22 (Martes): ";
   
-$bb = 0;
-$x += 0;
+$bb = 200;
+$x += 200;
 echo $bb;
   
 echo "m<br>Distance to Cozumel 23/02/22 (Miercoles): ";
