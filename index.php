@@ -48,19 +48,19 @@ echo "m<br><br>Week 1 Distance: ";
 $a = $aa + $ab + $ac +$ad + $ae + $af + $ag;
 echo $a;
   
-echo "Distance to Cozumel 21/02/22 (Lunes): ";
+echo "<br><br>Distance to Cozumel 21/02/22 (Lunes): ";
   
 $ba = 0;
 $x += 0;
 echo $ba;
   
-echo "Distance to Cozumel 22/02/22 (Martes): ";
+echo "<br>Distance to Cozumel 22/02/22 (Martes): ";
   
 $bb = 0;
 $x += 0;
 echo $bb;
   
-echo "Distance to Cozumel 23/02/22 (Miercoles): ";
+echo "<br>Distance to Cozumel 23/02/22 (Miercoles): ";
   
 $bc = 0;
 $x += 0;
