@@ -50,8 +50,8 @@ echo $a;
   
 echo "m<br><br>Distance to Cozumel 21/02/22 (Lunes): ";
   
-$ba = 0;
-$x += 0;
+$ba = 400;
+$x += 400;
 echo $ba;
   
 echo "m<br>Distance to Cozumel 22/02/22 (Martes): ";
