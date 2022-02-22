@@ -4,10 +4,11 @@ div {
   background-color: #003060;
 }
 divp {
+  color: #ccccaa;
   text-align: center;
 }
 body {
-    background-color: #000000;
+  background-color: #000000;
   color: #ddddff;
   font-family: "Lucida Console", "Courier New", monospace;
 }
