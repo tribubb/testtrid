@@ -2,7 +2,7 @@
 <html>
 <div1>
 <?php
-echo "The swim to Cozumel from the beach at Playa Del Carmen is approximately 17km, being 16.8km at its shortest
+echo "The swim to Cozumel from the beach at Playa Del Carmen is approximately 17km, being 16.8km at its shortest;
 ?> 
 </div1>
 <body>
