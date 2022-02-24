@@ -66,9 +66,15 @@ $bc = 100;
 $x += 100;
 echo $bc;
   
+echo "m<br>Distance to Cozumel 24/02/22 (Jueves): ";
+  
+$ad = 100;
+$x += 100;
+echo $bd;
+  
 echo "m<br><br>Week 2 Distance: ";
 
-$b = $ba + $bb + $bc;
+$b = $ba + $bb + $bc + $bd;
 echo $b;
 
 echo "m<br><br>Total Distance: ";
