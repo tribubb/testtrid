@@ -68,7 +68,7 @@ echo $bc;
   
 echo "m<br>Distance to Cozumel 24/02/22 (Jueves): ";
   
-$ad = 100;
+$bd = 100;
 $x += 100;
 echo $bd;
   
