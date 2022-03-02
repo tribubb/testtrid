@@ -95,7 +95,7 @@ echo "m<br><br>Week 2 Distance: ";
 $b = $ba + $bb + $bc + $bd + $be + $bf + $bg;
 echo $b;
   
-echo "m<br>Distance to Cozumel 28/02/22 (Lunes): ";
+echo "m<br><br>Distance to Cozumel 28/02/22 (Lunes): ";
   
 $ca= 100;
 $x += 100;
