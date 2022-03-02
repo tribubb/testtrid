@@ -99,19 +99,19 @@ echo "m<br>Distance to Cozumel 28/02/22 (Lunes): ";
   
 $ca= 100;
 $x += 100;
-echo $bd;
+echo $ca;
   
 echo "m<br>Distance to Cozumel 01/02/22 (Martes): ";
   
 $cb= 350;
 $x += 350;
-echo $bd;
+echo $cb;
   
 echo "m<br>Distance to Cozumel 01/02/22 (Miercoles): ";
   
 $cc= 300;
 $x += 300;
-echo $bd;
+echo $cc;
   
 echo "m<br><br>Week 3 Distance: ";
 
